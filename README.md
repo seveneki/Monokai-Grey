@@ -13,5 +13,8 @@ Here is a side-by-side comparison of the original theme (left) beside the grey t
 
 ![Screenshot](/screenshot.png?raw=true "Screenshot")
 
+## How to Install
+Installing the theme is very simple. Go to `Preferences > Browse Packages...` in Sublime Text, and make a new folder there. Call it something like "Monokai Grey" or if you're planning on getting more custom themes, "Custom Themes". Place the `Monokai-Grey.tmTheme` file from here and place it in there. You should be good to go!
+
 ## Credits
 Thanks to [TmTheme Editor](https://github.com/aziz/tmTheme-Editor) for allowing me to make this theme so easily. Also, thanks to them for having the dummy code!
