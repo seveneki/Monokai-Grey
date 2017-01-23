@@ -8,6 +8,7 @@ The difference is quite small; to grey the tints, I calculated the average of th
 
 ## Screenshot
 Here is a side-by-side comparison of the original theme (left) beside the grey theme (right):
+
 ![Screenshot](/screenshot.png?raw=true "Screenshot")
 
 ## Credits
