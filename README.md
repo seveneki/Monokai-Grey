@@ -5,6 +5,7 @@ A truely gray version of Monokai. The original Monokai has an ever-so-slight gre
 The difference is quite small; to grey the tints, I calculated the average of the 3 RGB colours.
 * Example
   * Theme default for regular text is `rgb(248,248,240)`, but I did some ez math `(248+248+240)/3` and got `245`.
+
 If you see anything that I missed, let me know or fork it! :)
 
 ## Screenshot
