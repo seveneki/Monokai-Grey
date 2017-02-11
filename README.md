@@ -1,5 +1,5 @@
 # Monokai-Grey
-A truely gray version of Monokai. The original Monokai has an ever-so-slight greenish tinge to it; this makes it all grey.
+A truly gray version of Monokai for Sublime Text 3. The original Monokai has an ever-so-slight greenish tinge to it; this makes it all grey.
 
 ## What's Different?
 The difference is quite small; to grey the tints, I calculated the average of the 3 RGB colours. Example:
